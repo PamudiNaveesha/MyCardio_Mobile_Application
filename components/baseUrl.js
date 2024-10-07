@@ -1,0 +1,1 @@
+export const Baseurl = "http://16.171.154.30";
