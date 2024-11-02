@@ -6,6 +6,9 @@ A brief description of your project goes here.
 
 - [Project Interfaces](#project-interfaces)
 - [Technologies Used](#technologies-used)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the App](#running-the-app)
 
 ## Project Interfaces
 
@@ -34,3 +37,28 @@ A brief description of your project goes here.
 
 - React Native
 - Expo
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) (version >= 14)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/) (`npm install -g expo-cli`)
+- [Git](https://git-scm.com/)
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+
+## Running the App
+
+  ```bash
+   expo start
+
