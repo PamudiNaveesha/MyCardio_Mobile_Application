@@ -10,25 +10,25 @@ A brief description of your project goes here.
 ## Project Interfaces
 
 ### Home Screen
-![Screenshot 1](screenshots/screenshot2.jpg)
+<img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="400"/>
 
 ### Predictions Screen
-![Screenshot 2](screenshots/screenshot2.jpg)
+<img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="400"/>
 
 ### ECG Classification Screen
-![Screenshot 3](screenshots/screenshot3.jpg)
+<img src="screenshots/screenshot3.jpg" alt="Screenshot 3" width="400"/>
 
 ### ECG Classification Result 1
-![Screenshot 4](screenshots/screenshot4.jpg)
+<img src="screenshots/screenshot4.jpg" alt="Screenshot 4" width="400"/>
 
 ### ECG Classification Result 2
-![Screenshot 5](screenshots/screenshot5.jpg)
+<img src="screenshots/screenshot5.jpg" alt="Screenshot 5" width="400"/>
 
 ### ECG Classification Result 3
-![Screenshot 6](screenshots/screenshot6.jpg)
+<img src="screenshots/screenshot6.jpg" alt="Screenshot 6" width="400"/>
 
 ### ECG Classification Result 4
-![Screenshot 7](screenshots/screenshot7.jpg)
+<img src="screenshots/screenshot7.jpg" alt="Screenshot 7" width="400"/>
 
 ## Technologies Used
 
