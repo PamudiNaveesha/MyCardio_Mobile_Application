@@ -10,7 +10,7 @@ A brief description of your project goes here.
 ## Project Interfaces
 
 ### Home Screen
-<img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="400" height="600"/>
+<img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="500" height="900"/>
 
 ### Predictions Screen
 <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="400" height="300"/>
